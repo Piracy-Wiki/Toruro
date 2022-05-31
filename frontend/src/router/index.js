@@ -6,12 +6,12 @@ import VueRouter from "vue-router";
 import Torrents from "../views/Torrents.vue";
 import Welcome from "../views/Welcome.vue";
 import Settings from "../views/settings/Settings.vue";
+import GeneralSettings from "../views/settings/GeneralSettings.vue";
 
 const routes = [
     {
         path: '/',
-        component:
-        Layout,
+        component: Layout,
         children: [
             {
                 path: '/',
@@ -19,13 +19,13 @@ const routes = [
                 component: Welcome,
             },
             {
-                path: 'settings',
-                name: 'Settings',
-                component: Settings,
+                path: 'settings/general',
+                name: 'General Settings',
+                component: GeneralSettings,
             },
             {
                 path: 'categories',
-                name: "Category's",
+                name: "Categories",
                 component: CategoryOverview
             },
             {
