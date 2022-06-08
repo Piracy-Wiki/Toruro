@@ -57,7 +57,7 @@ Anyone will be able to host a (private) BitTorrent tracker and online torrent in
 * [] RSS feed #31
 * [] Tags #53
 * [] Bookmark #54
-* [] Personal RSS #55
+* [ ] Personal RSS #55
 
 ### Credits
 This project was developed by [Dutch Bits](https://dutchbits.nl) for [Nautilus Cyberneering GmbH](https://nautilus-cyberneering.de/).
