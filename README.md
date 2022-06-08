@@ -47,7 +47,17 @@ Anyone will be able to host a (private) BitTorrent tracker and online torrent in
 
 ### Project Roadmap
 
-*Coming soon.*
+* [] Feedback #56
+* [] Comments Section (can be powered by disqus) #51
+* [] Age Restricted Option #50
+* [] Allow custom favicon #9
+* [] User Profile and his posts #48
+* [] Trusted Uploaders Badge #47
+* [] Seeders and Leechers Amount from external and Internet trackers #45
+* [] RSS feed #31
+* [] Tags #53
+* [] Bookmark #54
+* [] Personal RSS #55
 
 ### Credits
 This project was developed by [Dutch Bits](https://dutchbits.nl) for [Nautilus Cyberneering GmbH](https://nautilus-cyberneering.de/).
